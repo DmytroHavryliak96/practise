@@ -1,0 +1,11 @@
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\bin\Debug\ConsoleApplication.Tests.dll
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\bin\Debug\ConsoleApplication.Tests.pdb
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\bin\Debug\ConsoleApplication1.exe
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\obj\Debug\ConsoleApplication.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\obj\Debug\ConsoleApplication.Tests.dll
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\obj\Debug\ConsoleApplication.Tests.pdb
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\bin\Debug\FluentAssert.dll
+C:\Users\Scorpion\documents\visual studio 2015\Projects\Module2\ConsoleApplication.Tests\bin\Debug\FluentAssert.pdb
